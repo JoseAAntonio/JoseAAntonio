@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **antoniojaraujo0@gmail.com or linkedin.com/in/josé-antônio-araújo-8b1075249**
+- 📫 How to reach me **antoniojaraujo0@gmail.com or http://www.linkedin.com/in/JoseAAntonio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
