@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Antonio</h1>
 <h3 align="center">Currently on the path to become a full-stack web developer</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js** and **Node Js**
 
 - 📫 How to reach me **antoniojaraujo0@gmail.com or http://www.linkedin.com/in/JoseAAntonio
 
